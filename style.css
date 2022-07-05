@@ -35,7 +35,7 @@ body {
     color: #1F2937;
 }
 
-.header-box .links, .hero .subheader {
+.header-box .links a, .hero .subheader {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -53,4 +53,12 @@ body {
     font-weight: lighter;
     color: #1F2937;
     font-style: italic;
+}
+
+ul.links {
+    list-style: none;
+}
+
+.links a {
+    text-decoration: none;
 }
