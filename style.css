@@ -18,7 +18,9 @@ body {
     display: flex;
 }
 
-.footer, .hero .header,  .header-box .logo-text{
+.footer,
+.hero .header,
+.header-box .logo-text {
     color: #F9FAF8;
 }
 
@@ -31,7 +33,8 @@ body {
     font-size: 24px;
 }
 
-.hero .header, .information .head-text {
+.hero .header,
+.information .head-text {
     font-weight: 800;
 }
 
@@ -40,12 +43,14 @@ body {
     color: #1F2937;
 }
 
-.header-box .links a, .hero .subheader {
+.header-box .links a,
+.hero .subheader {
     font-size: 18px;
     color: #E5E7EB;
 }
 
-.extra, .extra button {
+.extra,
+.extra button {
     background-color: #3882F6;
 }
 
