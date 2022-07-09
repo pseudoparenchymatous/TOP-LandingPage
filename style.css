@@ -178,3 +178,11 @@ ul.links {
 .extra {
     padding: 100px 200px;
 }
+
+.signup {
+    border-radius: 7px;
+    padding: 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
