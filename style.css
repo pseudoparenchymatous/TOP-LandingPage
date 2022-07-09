@@ -111,6 +111,7 @@ ul.links {
 .hero {
     display: flex;
     padding: 100px 200px 180px;
+    gap: 10px;
 }
 
 .hero .header {
@@ -157,4 +158,19 @@ ul.links {
     width: 200px;
     height: 200px;
     border-radius: 15px;
+}
+
+.quote {
+    padding: 140px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote .text {
+    margin: 0;
+}
+
+.quote .author {
+    text-align: right;
+    padding-right: 50px;
 }
