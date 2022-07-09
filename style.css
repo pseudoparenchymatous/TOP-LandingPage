@@ -125,3 +125,36 @@ ul.links {
     justify-content: center;
     align-items: center;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+}
+
+.information .head-text {
+    margin-top: 0;
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.card-item p {
+    text-align: center;
+}
+
+.card-image {
+    border: solid #3882F6;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
